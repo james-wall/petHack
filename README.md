@@ -1,6 +1,8 @@
 =======PARTIAL CODE=============
-Unfortunately I did not have a copy of the complete project (completed i nMay, 2015) saved locally on my computer, 
+
+Unfortunately I did not have a copy of the complete project (completed in May, 2015) saved locally on my computer, 
 however I do have copies of the code files that I worked on (listed as "serverCode" and "partialBackEnd")
+
 ================================
 
 Created mobile-friendly web application designed to create an easy way for both pet owners and for vetrenarians
