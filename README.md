@@ -5,7 +5,7 @@ however I do have copies of the code files that I worked on (listed as "serverCo
 
 ================================
 
-Created mobile-friendly web application designed to create an easy way for both pet owners and for vetrenarians
+Created mobile-friendly web application designed to create an easy way for both pet owners and for veterinarians
 to compare various pet foods given the input of their specific dog. Offered side-by-side comparison of foods, user 
 login capabilities for further customization, and a complimentary map of nearby pet stores. Created in response to
 the challenge of PetHack 2015 ( https://pethackstlouis.splashthat.com/ )
